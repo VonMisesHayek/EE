@@ -1,2 +1,2 @@
-# Projects
-Arduino and microcontroller projects
+# Electrical/Electronics Projects
+Arduino, microcontrollers and circuits
